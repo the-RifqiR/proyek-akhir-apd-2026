@@ -50,15 +50,15 @@ data_daftar_divisi = (
 
 # KUOTA AWAL
 kuota_awal = {
-    "ACARA": 1,
-    "HUMAS": 3,
-    "KEAMANAN": 2,
-    "KESEHATAN": 3,
-    "DANUS": 3,
+    "ACARA": 2,
+    "HUMAS": 1,
+    "KEAMANAN": 1,
+    "KESEHATAN": 1,
+    "DANUS": 1,
     "KONSUMSI": 1,
-    "PDD": 2,
-    "PERLENGKAPAN": 5,
-    "DEKORASI": 4
+    "PDD": 1,
+    "PERLENGKAPAN": 1,
+    "DEKORASI": 1
 }
 
 

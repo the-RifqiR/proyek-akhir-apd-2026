@@ -1,0 +1,98 @@
+{
+    "data_akun": [
+        {
+            "nama": "ferdika",
+            "nim": "039",
+            "password": "039",
+            "role": "admin"
+        },
+        {
+            "nama": "habibur",
+            "nim": "045",
+            "password": "045",
+            "role": "admin"
+        },
+        {
+            "nama": "aja",
+            "nim": "038",
+            "password": "038",
+            "role": "user"
+        },
+        {
+            "nama": "Nathan",
+            "nim": "068",
+            "password": "068",
+            "role": "user"
+        },
+        {
+            "nama": "Hihu",
+            "nim": "041",
+            "password": "041",
+            "role": "user"
+        }
+    ],
+    "data_pendaftar": [
+        {
+            "nama": "aja",
+            "nim": "038",
+            "pilihan_divisi": [
+                "DEKORASI",
+                "KESEHATAN",
+                "DANUS"
+            ],
+            "alasan": [
+                "Mau Dekor Ruang",
+                "Nyelamatin Orang",
+                "Ga mau jualan"
+            ],
+            "status": "Diterima",
+            "divisi_diterima": "ACARA",
+            "tanggal": "24-11-2026 11:02"
+        },
+        {
+            "nama": "Nathan",
+            "nim": "068",
+            "pilihan_divisi": [
+                "ACARA",
+                "KESEHATAN",
+                "HUMAS"
+            ],
+            "alasan": [
+                "Acarin",
+                "Jadi sehat",
+                "Hubungan baik"
+            ],
+            "status": "Diterima",
+            "divisi_diterima": "ACARA",
+            "tanggal": "24-11-2026 11:07"
+        },
+        {
+            "nama": "Hihu",
+            "nim": "041",
+            "pilihan_divisi": [
+                "KESEHATAN",
+                "KONSUMSI",
+                "PDD"
+            ],
+            "alasan": [
+                "Kesehatan hat",
+                "Makan makan",
+                "FOto"
+            ],
+            "status": "Menunggu Konfirmasi",
+            "divisi_diterima": "-",
+            "tanggal": "24-11-2026 11:08"
+        }
+    ],
+    "kuota_divisi": {
+        "ACARA": 0,
+        "HUMAS": 1,
+        "KEAMANAN": 1,
+        "KESEHATAN": 1,
+        "DANUS": 1,
+        "KONSUMSI": 1,
+        "PDD": 1,
+        "PERLENGKAPAN": 1,
+        "DEKORASI": 1
+    }
+}
